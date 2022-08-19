@@ -1,0 +1,19 @@
+{
+    "name": "Kayzee NFT",
+    "description": "My Rare NFT deployed to goerli testnet", 
+    "image": "https://ipfs.io/ipfs/QmcNh3YDVYSqdC4Ru64XQhkNZEKoYmBqRX5rfp31ym7fAs?filename=kayzee.png", 
+    "attributes": [
+      {
+        "trait_type": "Colour", 
+        "value": "Mixed"
+      }, 
+      {
+        "trait_type": "Coolness", 
+        "value": "A lot!"
+      }, 
+      {
+        "trait_type": "Token Standard", 
+        "value": "ERC721"
+      }
+    ]
+  }
