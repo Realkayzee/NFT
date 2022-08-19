@@ -19,3 +19,4 @@ main().catch((error) => {
 
 // Contract Address =  0x086DEF9b8939367c2A5A0C0b979C849539aEF001
 // Mint TxHash = 0x687584795a08d84f23ece01e157e7a9b6476b9773dda898b768bd0bcacbf6b81
+// image URL = https://testnets.opensea.io/assets/rinkeby/0x086def9b8939367c2a5a0c0b979c849539aef001/0
